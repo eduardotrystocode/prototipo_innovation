@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "innovation", "innovation\innovation.csproj", "{378E3069-A0A4-463C-969D-39175CBC779B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8AB212AB-034A-4A2B-94BF-2F8E82DCD06D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378E3069-A0A4-463C-969D-39175CBC779B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378E3069-A0A4-463C-969D-39175CBC779B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378E3069-A0A4-463C-969D-39175CBC779B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378E3069-A0A4-463C-969D-39175CBC779B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8EB7BF-7B21-4496-8C2A-A6EC5491621B}
+	EndGlobalSection
+EndGlobal

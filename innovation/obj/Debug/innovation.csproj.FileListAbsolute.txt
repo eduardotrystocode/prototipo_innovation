@@ -1,0 +1,16 @@
+C:\Users\jesal\Documents\codigos\innovation\innovation\bin\Debug\innovation.exe.config
+C:\Users\jesal\Documents\codigos\innovation\innovation\bin\Debug\innovation.exe
+C:\Users\jesal\Documents\codigos\innovation\innovation\bin\Debug\innovation.pdb
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.csprojAssemblyReference.cache
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.Form1.resources
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.Properties.Resources.resources
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.csproj.GenerateResource.cache
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.csproj.CoreCompileInputs.cache
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.exe
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.pdb
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.Form2.resources
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.Form3.resources
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.menu_filtro1.resources
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.menu_filtro_edad.resources
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.menu_filtro_categ.resources
+C:\Users\jesal\Documents\codigos\innovation\innovation\obj\Debug\innovation.menu_filtro_prep.resources
